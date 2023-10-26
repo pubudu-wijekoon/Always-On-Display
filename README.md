@@ -15,7 +15,7 @@ keep the screen awake by automatically pressing a button. Here we use F13 -> \*F
 
 ## time
 
-WScript.Sleep(5*60*1000)
+`WScript.Sleep(5*60*1000)`
 this is for 5min
 
 if you want to change it for 1 min use
