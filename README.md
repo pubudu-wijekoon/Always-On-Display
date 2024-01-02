@@ -4,7 +4,7 @@ keep the screen awake by automatically pressing a button. Here we use F13 -> \*\
 
 # run this code | script
 
-1. go to cmd(command prompt)
+1. go to cmd(command prompt) (Win Key + R and type cmd)
 2. `cscript scriptname.vbs` -> ex: `cscript awakescreen.vbs`
 
 ## change the auto press button
